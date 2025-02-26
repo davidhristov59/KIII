@@ -1,2 +1,2 @@
 # KIII
-Continious Integration And Continious Delivery/Deployment (DevOps) @ FCSE-Skopje
+Continious Integration And Continious Delivery (DevOps) @ FCSE-Skopje
