@@ -1,0 +1,19 @@
+.idea
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.class
+*.exe
+*.o
+
+# Ignore environment files
+.env
+node_modules/
+
+
